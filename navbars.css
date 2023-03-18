@@ -251,6 +251,12 @@ p{
   footer{
     margin-bottom: 90pxpx;
   }
+	.mainbody{
+  position: relative; 
+  bottom:20px;
+  height: 750px;
+  background-color: #eeeeee;
+}
   .second{
     height: 700px;
     background-color: white;
