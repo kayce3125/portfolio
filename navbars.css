@@ -40,9 +40,8 @@ h4{
 }
 .dboard{
   font-size: 30px;
-  margin-top: 30px;
+  margin-top: 20px;
   font-family: 'Acme', sans-serif;
-  
 }
 .icon{
   height: 90px;
@@ -206,7 +205,7 @@ footer{
 .kayce{
   border-style:solid;
   border-radius: 200px;
-  border-width: 3px;
+  border-width: 1px;
   width: 260px;
   height: 250px;
   display: block;
@@ -298,7 +297,7 @@ p{
     border-width: 2px;
     border-radius: 200px;
     border-color: black;
-    width: 260px;
+    width: 250px;
     height: 250px;
     display: block;
     margin-left: auto;
